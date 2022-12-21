@@ -1,0 +1,1 @@
+# automatization tests for farberwarecookware.com
